@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/findex.html"
+      "destination": "/index.html"
     }
   ],
   "cleanUrls": true
