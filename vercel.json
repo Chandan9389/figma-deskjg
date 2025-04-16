@@ -1,12 +1,10 @@
 {
-    "version": 2,
-    "routes": [
-      {
-        "src": "/",
-        "dest": "/index.html"
-      }
-    ],
-    "builds": [],
-    "cleanUrls": true
-  }
-  
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/findex.html"
+    }
+  ],
+  "cleanUrls": true
+}
